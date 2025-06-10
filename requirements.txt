@@ -6,3 +6,4 @@ jedi >= 0.9
 gitpython >= 1.0
 six >= 1.10.0
 kivy-garden
+requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability
